@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+helpful article: url: https://michaelsoolee.com/rails-devise-views/
+
+url: https://dev.to/casseylottman/adding-a-field-to-your-sign-up-form-with-devise-10i1
